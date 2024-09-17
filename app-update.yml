@@ -1,0 +1,5 @@
+provider: s3
+endpoint: https://dolphin-anty-cdn.com
+bucket: anty-app
+acl: public-read
+updaterCacheDirName: dolphin_anty-updater
